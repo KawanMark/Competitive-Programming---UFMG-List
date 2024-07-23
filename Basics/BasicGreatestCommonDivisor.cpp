@@ -1,5 +1,5 @@
 //https://csacademy.com/contest/archive/task/gcd/
-
+// gdc =  maior divisor comum
 #include <bits/stdc++.h>
 using namespace std;
 
